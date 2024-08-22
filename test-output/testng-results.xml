@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-21T03:52:02 PDT" name="Default suite" finished-at="2024-08-21T03:52:46 PDT" duration-ms="43671">
+    <groups>
+    </groups>
+    <test started-at="2024-08-21T03:52:02 PDT" name="Default test" finished-at="2024-08-21T03:52:46 PDT" duration-ms="43671">
+      <class name="com.locators1.DemoLocators1">
+        <test-method signature="ExId()[pri:0, instance:com.locators1.DemoLocators1@479d31f3]" started-at="2024-08-21T03:52:02 PDT" name="ExId" finished-at="2024-08-21T03:52:19 PDT" duration-ms="16953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExId -->
+        <test-method signature="WebElementsEnabled()[pri:0, instance:com.locators1.DemoLocators1@479d31f3]" started-at="2024-08-21T03:52:19 PDT" name="WebElementsEnabled" finished-at="2024-08-21T03:52:34 PDT" duration-ms="14430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebElementsEnabled -->
+        <test-method signature="WebElementsSelected()[pri:0, instance:com.locators1.DemoLocators1@479d31f3]" started-at="2024-08-21T03:52:34 PDT" name="WebElementsSelected" finished-at="2024-08-21T03:52:46 PDT" duration-ms="12239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebElementsSelected -->
+      </class> <!-- com.locators1.DemoLocators1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
